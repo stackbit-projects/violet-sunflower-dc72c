@@ -1,5 +1,5 @@
-name: LogoSection
-label: Logo section
+name: TestimonialsSection
+label: Testimonials section
 groups:
   - sectionComponent
 fields:
