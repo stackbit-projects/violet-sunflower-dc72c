@@ -31,4 +31,4 @@ const TestimonialsSection = (props) => {
   );
 };
 
-export default TestimonialSection;
+export default TestimonialsSection;
