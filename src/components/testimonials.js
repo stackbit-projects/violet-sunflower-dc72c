@@ -12,7 +12,7 @@ const TestimonialsSection = (props) => {
             <div
                 className="flex justify-center items-center"
                 data-sb-field-path=".testimonials">
-                {testimonials.map((testimonial, index) => (
+                {testimonial.map((testimonial, index) => (
                     <div className="p-6" key={index} data-sb-field-path={`.${index}`}>
                         <img
                             className="mb-2"
