@@ -11,7 +11,7 @@ const TestimonialsSection = (props) => {
       </h1>
       <div
         className="flex justify-center items-center"
-        data-sb-field-path=".logos">
+        data-sb-field-path=".testimonials">
         {logos.map((logo, index) => (
           <div className="p-6" key={index} data-sb-field-path={`.${index}`}>
             <img
