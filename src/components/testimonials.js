@@ -1,4 +1,4 @@
-const LogoSection = (props) => {
+const TestimonialsSection = (props) => {
   const { annotationPrefix, logos, title } = props;
   return (
     <div
