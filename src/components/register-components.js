@@ -6,7 +6,7 @@ import TestimonialsSection from './testimonials'
 registerComponents({
     // Register all Stackbit components
     ...componentsMap
-
+    TestimonialsSection
     // Override any static or dynamic component,
     // or register your own dynamic component.
 });
