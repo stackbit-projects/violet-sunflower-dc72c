@@ -1,5 +1,5 @@
 const TestimonialsSection = (props) => {
-  const { annotationPrefix, testimonials, title } = props;
+  const { annotationPrefix, testimonial, title } = props;
   return (
     <div
       className="max-w-screen-xl mx-auto px-4 sm:px-6 py-14 lg:py-20 mt-10 mb-10 text-center"
